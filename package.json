@@ -27,6 +27,6 @@
   },
   "files": [
     "src",
-    "./*.tsx"
+    "gyf.tsx"
   ]
 }
