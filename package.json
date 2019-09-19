@@ -2,7 +2,7 @@
   "name": "@epig/admin-tools-config",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,5 +16,17 @@
   "bugs": {
     "url": "https://github.com/evel-pig/admin-tools-config/issues"
   },
-  "homepage": "https://github.com/evel-pig/admin-tools-config#readme"
+  "homepage": "https://github.com/evel-pig/admin-tools-config#readme",
+  "devDependencies": {
+    "@epig/admin-tools": "^1.19.1",
+    "@types/node": "^12.7.5",
+    "@types/react": "^16.9.2",
+    "@types/react-dom": "^16.9.0",
+    "antd": "^3.23.3",
+    "react-dom": "^16.9.0"
+  },
+  "files": [
+    "src",
+    "./*.tsx"
+  ]
 }
